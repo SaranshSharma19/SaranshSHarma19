@@ -3,7 +3,6 @@
 - 🔭 I’m currently pusuing B.Tech in Computer Science And Engineering(Data Science) from ABES Engineering College
 - 🌱 I’m currently learning: Data Science 
 - 💬 Ask me about anything related to Data Science, Python 
-- 👨‍💻 All of my projects are available at [https://github.com/SaranshSharma19](https://github.com/SaranshSharma19)
 - 📫 How to reach me: saranshsharma1919@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nothing 😂
